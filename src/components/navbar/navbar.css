@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 0;
+    background-color: aquamarine;
+}
+.navlink{
+    padding: 10px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(170, 168, 232);
+}
+
+

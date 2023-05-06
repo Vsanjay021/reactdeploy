@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 0;
+    background-color: aquamarine;
+}
+.navlink{
+    text-decoration: none;
+    padding: 10px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(170, 168, 232);
+}
+.navlink:hover{
+    background-color: white;
+    color: red;
+}
+
+

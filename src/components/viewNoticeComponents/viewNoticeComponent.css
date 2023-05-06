@@ -1,0 +1,12 @@
+.cards{
+    width: 80%;
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+
+}
+.cards>div{
+    border: 1px solid rgb(170, 168, 232);
+    padding:10px 10px;
+}
